@@ -4,28 +4,21 @@ A new Flutter project.
 
 ## Getting Started
 
-Create a Flutter app based on the attached design and APIs.
+- Create a Flutter app based on the attached design and APIs.
 
-In the Home Screen: after loading data from the API, save it into a local SQLite database and use SQL statements to fetch filtered data.
+- In the Home Screen: after loading data from the API, save it into a local SQLite database and use SQL statements to fetch filtered data.
 
-If the user leaves the app idle or in the background for 2 minutes, the app should automatically log out and return to the login screen.
+- If the user leaves the app idle or in the background for 2 minutes, the app should automatically log out and return to the login screen.
 
-The app must be compiled and run using the latest Flutter SDK.
+- The app must be compiled and run using the latest Flutter SDK.
 
-Focus on delivering simple, clean, and bug-free code.
+- Focus on delivering simple, clean, and bug-free code.
 
-Create a GitHub repository and commit your work progressively.
+- Create a GitHub repository and commit your work progressively.
 
-Write a simple README file explaining your software design choices.
+- Write a simple README file explaining your software design choices.
 
-After completing the task, send the repository URL.
-
-lib/
-├── core/              # Common utilities, constants, helpers
-├── data/              # Data sources: APIs, models, local storage
-├── domain/            # Entities and use cases
-├── presentation/      # UI (Pages, Widgets, State Management)
-├── main.dart          # App entry point
+- After completing the task, send the repository URL.
 
 Make sure you are using the latest stable Flutter SDK!
 
