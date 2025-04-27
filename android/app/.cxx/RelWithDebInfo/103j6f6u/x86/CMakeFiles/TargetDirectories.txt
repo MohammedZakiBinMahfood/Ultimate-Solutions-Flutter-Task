@@ -1,0 +1,2 @@
+F:/Ultimate Solutions Flutter Task/uiltimate_solutions_flutter_task/android/app/.cxx/RelWithDebInfo/103j6f6u/x86/CMakeFiles/edit_cache.dir
+F:/Ultimate Solutions Flutter Task/uiltimate_solutions_flutter_task/android/app/.cxx/RelWithDebInfo/103j6f6u/x86/CMakeFiles/rebuild_cache.dir
